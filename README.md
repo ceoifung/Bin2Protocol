@@ -11,3 +11,6 @@ python app.py
 ```shell
 pyinstaller -F -w .\app.py # -F 表示生成单文件 -w 取消控制台唤起
 ```
+
+## 运行效果
+<img src="./image/app.png"></img>
